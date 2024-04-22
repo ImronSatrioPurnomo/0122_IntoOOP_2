@@ -23,3 +23,7 @@ public:
 		cout << "Luasnya = " << hitungLuas() << endl;
 	}
 };
+
+int main() {
+
+}
