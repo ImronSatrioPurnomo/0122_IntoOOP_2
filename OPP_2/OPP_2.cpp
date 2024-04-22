@@ -18,6 +18,6 @@ public:
 		return panjang * lebar;
 	}
 	void display() {
-
+		cout << "Panjangnya = " << panjang << endl;
 	}
 };
