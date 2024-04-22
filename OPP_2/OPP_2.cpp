@@ -9,6 +9,7 @@ public:
 	float luas;
 
 	void input() {
-
+		cout << "Masukan panjangnya = ";
+		cin >> panjang;
 	}
 };
